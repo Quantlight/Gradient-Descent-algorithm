@@ -1,5 +1,6 @@
-# Visual-Linear-Regression
-Explore how linear regression operates through visual representations using Python code.
+# Gradient-Descent-algorithm
+
+Explore how Gradient Descent operates through visual representations using Python code.
 
 ![image](https://github.com/Quantlight/Visual-Linear-Regression/assets/64504265/643151c8-27fb-4e18-9abd-0cb1ff0ec368)
 ## Step 1: Download the zip file or use Git Clone
